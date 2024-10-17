@@ -1,0 +1,1001 @@
+Age,Gender,Condition,Treatment,Outcome,Hospital Stay (Days),Comorbidities
+44,Female,Asthma,Medication,Stable,13,Hypertension
+20,Male,Heart Disease,Therapy,Improved,16,Arthritis
+72,Male,Diabetes,Surgery,Improved,22,"None, Anxiety"
+23,Male,COPD,Lifestyle Change,Worsened,1,None
+53,Male,Heart Disease,Medication,Improved,4,Depression
+39,Male,Heart Disease,Therapy,Improved,28,Arthritis
+56,Female,Diabetes,Medication,Recovered,4,Chronic Kidney Disease
+53,Male,COPD,Therapy,Worsened,8,"Anxiety, Chronic Kidney Disease"
+89,Male,Asthma,Medication,Recovered,10,"Depression, Chronic Kidney Disease"
+60,Female,Heart Disease,Therapy,Stable,20,None
+24,Male,Heart Disease,Lifestyle Change,Improved,22,"Hyperlipidemia, Obesity"
+24,Male,Asthma,Monitoring,Recovered,19,"Hypertension, Depression"
+53,Male,Hypertension,Lifestyle Change,Recovered,5,Obesity
+63,Male,Diabetes,Monitoring,Recovered,24,"None, None"
+34,Female,Heart Disease,Surgery,Improved,7,Obesity
+68,Male,COPD,Monitoring,Improved,25,"Anxiety, Arthritis"
+45,Male,Hypertension,Surgery,Recovered,25,"Chronic Kidney Disease, None"
+88,Female,COPD,Monitoring,Worsened,13,"Hyperlipidemia, Anxiety"
+48,Female,Heart Disease,Lifestyle Change,Worsened,27,Chronic Kidney Disease
+36,Male,COPD,Medication,Worsened,2,Hypertension
+33,Female,COPD,Monitoring,Improved,7,"None, Depression"
+86,Male,Asthma,Therapy,Improved,8,Arthritis
+35,Female,Diabetes,Therapy,Recovered,24,"None, Arthritis"
+79,Female,Heart Disease,Surgery,Improved,15,Arthritis
+69,Female,Asthma,Medication,Improved,25,"Hypertension, Arthritis"
+36,Female,Hypertension,Therapy,Stable,18,"None, Arthritis"
+44,Female,Hypertension,Medication,Stable,6,Depression
+61,Female,COPD,Monitoring,Improved,26,"Hyperlipidemia, Arthritis"
+77,Female,Diabetes,Lifestyle Change,Improved,14,Hypertension
+80,Female,Hypertension,Therapy,Stable,9,"Chronic Kidney Disease, Hypertension"
+74,Male,COPD,Medication,Worsened,10,"Depression, Arthritis"
+67,Female,Diabetes,Lifestyle Change,Worsened,21,"Arthritis, Depression"
+34,Female,Heart Disease,Surgery,Worsened,20,"Depression, None"
+86,Female,COPD,Lifestyle Change,Stable,17,Hyperlipidemia
+67,Female,COPD,Therapy,Improved,20,"Anxiety, Depression"
+33,Male,Diabetes,Lifestyle Change,Improved,6,"Arthritis, Hypertension"
+53,Female,COPD,Monitoring,Stable,16,"Hyperlipidemia, None"
+27,Male,Asthma,Monitoring,Recovered,16,Arthritis
+32,Female,Diabetes,Monitoring,Worsened,1,"Chronic Kidney Disease, Arthritis"
+21,Female,Asthma,Therapy,Worsened,19,None
+57,Female,Asthma,Monitoring,Worsened,4,"Hyperlipidemia, Depression"
+87,Male,Asthma,Surgery,Recovered,25,Anxiety
+62,Male,Asthma,Medication,Worsened,18,"None, Hypertension"
+89,Female,Hypertension,Medication,Recovered,20,"Anxiety, None"
+86,Male,Asthma,Lifestyle Change,Improved,30,"None, Hyperlipidemia"
+75,Female,Hypertension,Surgery,Stable,20,"Anxiety, Hyperlipidemia"
+36,Female,COPD,Lifestyle Change,Stable,20,"Hypertension, Obesity"
+89,Female,Hypertension,Therapy,Recovered,15,Chronic Kidney Disease
+40,Male,Heart Disease,Monitoring,Improved,8,"None, None"
+34,Male,Diabetes,Therapy,Improved,1,"None, Anxiety"
+72,Male,Diabetes,Monitoring,Recovered,2,None
+80,Female,Heart Disease,Therapy,Worsened,10,Arthritis
+29,Male,Heart Disease,Monitoring,Improved,26,Chronic Kidney Disease
+51,Female,Diabetes,Lifestyle Change,Worsened,1,"Arthritis, Chronic Kidney Disease"
+79,Female,COPD,Therapy,Stable,11,"None, Hypertension"
+43,Male,Asthma,Medication,Recovered,21,Anxiety
+40,Female,Heart Disease,Medication,Worsened,24,"None, Depression"
+70,Female,Heart Disease,Therapy,Worsened,4,Arthritis
+89,Male,Hypertension,Lifestyle Change,Worsened,12,Anxiety
+81,Female,Diabetes,Therapy,Improved,19,"Depression, Arthritis"
+33,Male,Diabetes,Monitoring,Recovered,24,"Depression, None"
+44,Male,Asthma,Therapy,Worsened,29,"Anxiety, Obesity"
+76,Female,Asthma,Surgery,Worsened,3,"Arthritis, Anxiety"
+58,Male,Heart Disease,Lifestyle Change,Worsened,1,None
+71,Female,Hypertension,Lifestyle Change,Recovered,1,"Arthritis, Hypertension"
+70,Female,Heart Disease,Surgery,Worsened,5,Arthritis
+45,Female,Diabetes,Medication,Improved,22,Arthritis
+31,Female,Asthma,Medication,Improved,6,Anxiety
+25,Female,Heart Disease,Lifestyle Change,Recovered,7,"Depression, Hyperlipidemia"
+47,Male,Diabetes,Monitoring,Worsened,9,"Obesity, None"
+56,Female,COPD,Lifestyle Change,Recovered,21,Obesity
+45,Female,COPD,Therapy,Stable,18,None
+73,Male,Heart Disease,Therapy,Improved,16,"Hyperlipidemia, Arthritis"
+32,Female,Hypertension,Medication,Recovered,5,"Depression, None"
+41,Male,Asthma,Therapy,Worsened,10,"Arthritis, Anxiety"
+71,Male,Asthma,Lifestyle Change,Improved,11,"Chronic Kidney Disease, None"
+51,Female,Asthma,Surgery,Stable,27,Obesity
+72,Female,Asthma,Monitoring,Improved,25,"Obesity, Chronic Kidney Disease"
+35,Female,Hypertension,Therapy,Recovered,2,"Obesity, Arthritis"
+55,Female,Hypertension,Monitoring,Improved,2,"Arthritis, Hyperlipidemia"
+49,Male,Hypertension,Therapy,Improved,8,Chronic Kidney Disease
+32,Male,Heart Disease,Monitoring,Improved,10,Hyperlipidemia
+61,Female,COPD,Monitoring,Recovered,26,"Chronic Kidney Disease, None"
+42,Female,COPD,Monitoring,Improved,4,Chronic Kidney Disease
+83,Male,Hypertension,Lifestyle Change,Worsened,7,"None, Anxiety"
+23,Male,Heart Disease,Monitoring,Stable,24,Hypertension
+19,Female,Asthma,Surgery,Improved,12,Chronic Kidney Disease
+78,Male,COPD,Surgery,Improved,15,"Depression, Anxiety"
+81,Female,COPD,Lifestyle Change,Improved,19,Depression
+67,Female,Diabetes,Monitoring,Stable,28,None
+34,Female,Hypertension,Surgery,Recovered,1,Chronic Kidney Disease
+34,Male,Asthma,Monitoring,Stable,15,"Arthritis, None"
+89,Male,COPD,Therapy,Stable,4,"Hyperlipidemia, Obesity"
+63,Male,Heart Disease,Medication,Stable,22,"None, Depression"
+56,Male,Hypertension,Therapy,Worsened,13,"Depression, Arthritis"
+76,Male,Heart Disease,Lifestyle Change,Improved,26,Arthritis
+83,Female,COPD,Therapy,Improved,11,None
+83,Male,COPD,Therapy,Improved,21,"Arthritis, Obesity"
+51,Male,Diabetes,Therapy,Worsened,12,Hypertension
+84,Female,Asthma,Surgery,Improved,5,Hyperlipidemia
+80,Male,Diabetes,Lifestyle Change,Stable,7,"None, Anxiety"
+76,Female,Diabetes,Lifestyle Change,Stable,5,"Depression, Hypertension"
+51,Female,Heart Disease,Monitoring,Improved,16,Obesity
+86,Male,Diabetes,Therapy,Recovered,21,"Depression, None"
+48,Male,Diabetes,Surgery,Worsened,4,"Hyperlipidemia, None"
+31,Female,Hypertension,Surgery,Improved,13,"None, Hyperlipidemia"
+40,Male,Heart Disease,Monitoring,Stable,5,"Hypertension, None"
+86,Female,COPD,Lifestyle Change,Recovered,21,"Depression, Anxiety"
+70,Female,COPD,Lifestyle Change,Stable,9,None
+54,Male,Diabetes,Medication,Stable,15,"None, Obesity"
+66,Female,Diabetes,Medication,Worsened,16,Hypertension
+25,Male,Heart Disease,Surgery,Stable,21,"Hyperlipidemia, None"
+51,Female,Diabetes,Therapy,Worsened,4,"Arthritis, Depression"
+86,Male,Asthma,Monitoring,Improved,27,Hypertension
+51,Male,Heart Disease,Surgery,Stable,24,"Arthritis, Depression"
+26,Female,COPD,Medication,Worsened,16,Hypertension
+66,Male,Hypertension,Medication,Worsened,14,Anxiety
+46,Male,Asthma,Therapy,Improved,22,"Hyperlipidemia, None"
+89,Female,Diabetes,Surgery,Recovered,22,"None, Hyperlipidemia"
+24,Female,Hypertension,Medication,Stable,17,Depression
+68,Female,Hypertension,Surgery,Stable,18,Hypertension
+61,Male,Hypertension,Medication,Improved,6,"Hypertension, Depression"
+54,Male,Asthma,Surgery,Improved,10,"Depression, None"
+29,Male,Asthma,Medication,Worsened,4,None
+56,Male,Diabetes,Monitoring,Worsened,1,Anxiety
+52,Female,Diabetes,Medication,Improved,6,"Depression, Anxiety"
+43,Female,COPD,Monitoring,Worsened,1,Depression
+75,Female,Diabetes,Surgery,Worsened,18,Depression
+40,Male,Diabetes,Medication,Worsened,19,Arthritis
+29,Female,Asthma,Medication,Recovered,5,Hypertension
+73,Male,Hypertension,Monitoring,Stable,3,"Anxiety, Depression"
+35,Female,Hypertension,Lifestyle Change,Stable,17,"None, Hyperlipidemia"
+62,Female,Diabetes,Therapy,Worsened,30,Obesity
+57,Female,Hypertension,Medication,Recovered,4,"Obesity, Hypertension"
+73,Female,Diabetes,Surgery,Stable,3,Depression
+57,Male,Asthma,Therapy,Worsened,11,Hyperlipidemia
+46,Male,Heart Disease,Surgery,Improved,14,Arthritis
+22,Female,Heart Disease,Surgery,Improved,17,"Depression, None"
+62,Female,Asthma,Lifestyle Change,Stable,8,Anxiety
+39,Male,Heart Disease,Therapy,Improved,22,"Hyperlipidemia, Depression"
+72,Male,COPD,Therapy,Improved,10,"Hypertension, Chronic Kidney Disease"
+31,Female,Hypertension,Lifestyle Change,Stable,1,Hyperlipidemia
+52,Male,COPD,Therapy,Improved,11,None
+56,Female,COPD,Lifestyle Change,Worsened,19,None
+24,Female,Hypertension,Medication,Stable,12,"None, Anxiety"
+83,Male,Asthma,Surgery,Worsened,27,"Chronic Kidney Disease, Depression"
+82,Female,Heart Disease,Lifestyle Change,Worsened,24,"None, Depression"
+86,Female,Diabetes,Medication,Worsened,28,"None, None"
+70,Male,Diabetes,Medication,Improved,3,"Hypertension, None"
+68,Female,Heart Disease,Surgery,Improved,26,Hyperlipidemia
+36,Male,Asthma,Medication,Recovered,3,"Hypertension, Chronic Kidney Disease"
+68,Female,Diabetes,Lifestyle Change,Recovered,4,None
+56,Male,Heart Disease,Lifestyle Change,Recovered,28,Hyperlipidemia
+68,Female,Heart Disease,Surgery,Stable,4,Arthritis
+90,Female,COPD,Lifestyle Change,Worsened,19,"Depression, Anxiety"
+24,Female,Asthma,Medication,Improved,15,"Hyperlipidemia, None"
+28,Female,Diabetes,Medication,Worsened,4,"Arthritis, Obesity"
+32,Female,Hypertension,Monitoring,Stable,21,"Hypertension, None"
+42,Male,Asthma,Therapy,Improved,18,None
+20,Female,Hypertension,Therapy,Stable,19,"Anxiety, Arthritis"
+82,Female,Diabetes,Monitoring,Worsened,28,"Hypertension, None"
+53,Male,Diabetes,Monitoring,Stable,15,"Depression, Arthritis"
+71,Female,COPD,Therapy,Stable,10,Chronic Kidney Disease
+29,Male,Heart Disease,Lifestyle Change,Worsened,27,Hypertension
+23,Female,Heart Disease,Monitoring,Stable,2,"Chronic Kidney Disease, Hyperlipidemia"
+46,Female,COPD,Medication,Recovered,5,"Chronic Kidney Disease, Depression"
+53,Male,Diabetes,Monitoring,Improved,11,"Anxiety, None"
+63,Female,COPD,Medication,Worsened,23,"Hyperlipidemia, Anxiety"
+27,Male,Diabetes,Therapy,Stable,12,"Arthritis, Hyperlipidemia"
+84,Male,Asthma,Monitoring,Stable,9,"None, Chronic Kidney Disease"
+32,Male,Heart Disease,Lifestyle Change,Worsened,12,"Arthritis, Hyperlipidemia"
+43,Male,Hypertension,Surgery,Stable,3,"Chronic Kidney Disease, Depression"
+78,Male,COPD,Surgery,Stable,20,"Hyperlipidemia, Chronic Kidney Disease"
+22,Female,Heart Disease,Medication,Worsened,17,None
+78,Female,Asthma,Medication,Recovered,1,Depression
+39,Male,Diabetes,Monitoring,Recovered,23,Depression
+59,Female,Hypertension,Lifestyle Change,Stable,1,Chronic Kidney Disease
+67,Female,COPD,Lifestyle Change,Worsened,7,None
+72,Male,Diabetes,Therapy,Improved,20,"Hyperlipidemia, Chronic Kidney Disease"
+74,Male,Heart Disease,Monitoring,Improved,15,"None, Anxiety"
+18,Female,Asthma,Medication,Improved,11,Anxiety
+50,Female,COPD,Therapy,Stable,20,"None, Hyperlipidemia"
+41,Male,Asthma,Therapy,Improved,25,"Anxiety, Chronic Kidney Disease"
+70,Female,Diabetes,Medication,Stable,29,Depression
+41,Male,COPD,Lifestyle Change,Worsened,9,Anxiety
+42,Male,Hypertension,Medication,Improved,14,"None, Obesity"
+75,Male,COPD,Lifestyle Change,Recovered,25,"Obesity, Hyperlipidemia"
+76,Male,Hypertension,Lifestyle Change,Worsened,30,Anxiety
+24,Male,Asthma,Surgery,Worsened,3,"None, Anxiety"
+64,Male,Hypertension,Lifestyle Change,Stable,4,"Arthritis, Hypertension"
+75,Male,Asthma,Lifestyle Change,Worsened,3,"Chronic Kidney Disease, None"
+61,Male,Diabetes,Lifestyle Change,Worsened,12,None
+30,Male,Hypertension,Therapy,Stable,14,"Obesity, Depression"
+55,Male,Heart Disease,Lifestyle Change,Improved,17,"Hyperlipidemia, Obesity"
+59,Female,Diabetes,Medication,Recovered,9,"None, None"
+77,Female,Diabetes,Surgery,Stable,9,Hypertension
+40,Female,Asthma,Lifestyle Change,Worsened,20,Arthritis
+22,Female,Heart Disease,Surgery,Improved,9,None
+27,Male,Diabetes,Monitoring,Worsened,27,Arthritis
+89,Female,Diabetes,Therapy,Stable,3,Obesity
+35,Female,Asthma,Therapy,Stable,25,"Hypertension, Arthritis"
+28,Male,Diabetes,Medication,Improved,21,"Anxiety, None"
+43,Female,Diabetes,Therapy,Stable,4,Obesity
+33,Male,Hypertension,Medication,Stable,13,"Arthritis, Hypertension"
+89,Female,Hypertension,Surgery,Stable,30,Arthritis
+20,Female,Asthma,Therapy,Improved,15,"Chronic Kidney Disease, Anxiety"
+19,Female,Heart Disease,Surgery,Recovered,1,None
+69,Male,Asthma,Monitoring,Improved,5,"None, None"
+65,Male,COPD,Therapy,Recovered,4,"None, None"
+35,Male,Diabetes,Medication,Stable,14,"None, Hyperlipidemia"
+83,Male,Heart Disease,Lifestyle Change,Recovered,12,Depression
+86,Female,Hypertension,Lifestyle Change,Improved,29,Hypertension
+68,Male,Asthma,Lifestyle Change,Recovered,23,"Arthritis, Hyperlipidemia"
+69,Female,Diabetes,Lifestyle Change,Worsened,14,Hyperlipidemia
+57,Female,Heart Disease,Lifestyle Change,Improved,26,"None, Anxiety"
+83,Female,Hypertension,Lifestyle Change,Worsened,14,"None, Hyperlipidemia"
+33,Male,Diabetes,Surgery,Improved,12,Depression
+35,Male,Diabetes,Lifestyle Change,Stable,25,Arthritis
+31,Male,Diabetes,Therapy,Recovered,17,"None, Anxiety"
+61,Male,COPD,Surgery,Recovered,25,"Hypertension, Chronic Kidney Disease"
+55,Female,Asthma,Medication,Worsened,30,"None, Anxiety"
+78,Male,Hypertension,Medication,Recovered,22,Hypertension
+51,Female,COPD,Monitoring,Improved,15,Anxiety
+64,Female,Heart Disease,Monitoring,Stable,26,"None, Hypertension"
+47,Female,Hypertension,Medication,Stable,17,None
+46,Male,Asthma,Surgery,Recovered,29,None
+89,Female,COPD,Lifestyle Change,Worsened,26,"Hypertension, Hyperlipidemia"
+29,Female,Hypertension,Lifestyle Change,Worsened,23,Hypertension
+32,Male,Hypertension,Monitoring,Stable,22,None
+33,Male,COPD,Medication,Stable,30,"Depression, Hypertension"
+49,Female,Hypertension,Therapy,Stable,20,Chronic Kidney Disease
+82,Female,Hypertension,Medication,Stable,2,"Arthritis, None"
+55,Male,Hypertension,Surgery,Recovered,9,Chronic Kidney Disease
+87,Male,Heart Disease,Surgery,Improved,1,Depression
+50,Female,COPD,Monitoring,Worsened,5,"None, Hyperlipidemia"
+25,Female,Hypertension,Lifestyle Change,Improved,28,Obesity
+54,Male,Diabetes,Lifestyle Change,Worsened,28,None
+90,Male,Asthma,Lifestyle Change,Improved,26,"Arthritis, Obesity"
+32,Female,COPD,Surgery,Stable,7,"None, Hypertension"
+72,Male,Hypertension,Medication,Recovered,22,"Hyperlipidemia, Depression"
+69,Male,Diabetes,Surgery,Worsened,14,Arthritis
+60,Male,Hypertension,Therapy,Improved,8,Chronic Kidney Disease
+32,Male,Hypertension,Surgery,Worsened,25,"Chronic Kidney Disease, None"
+89,Female,Asthma,Monitoring,Stable,25,None
+84,Male,COPD,Medication,Recovered,16,Depression
+48,Male,Heart Disease,Monitoring,Worsened,10,"None, Depression"
+51,Male,Asthma,Lifestyle Change,Recovered,19,Obesity
+20,Female,Heart Disease,Lifestyle Change,Improved,9,Chronic Kidney Disease
+87,Female,COPD,Surgery,Recovered,23,"None, Anxiety"
+46,Female,Asthma,Medication,Worsened,16,"None, Anxiety"
+71,Male,Heart Disease,Monitoring,Stable,12,Obesity
+82,Female,Asthma,Monitoring,Worsened,7,"Arthritis, Obesity"
+85,Male,Asthma,Surgery,Improved,16,None
+55,Male,COPD,Therapy,Improved,30,Hypertension
+20,Female,Diabetes,Therapy,Stable,26,"Obesity, Depression"
+58,Female,Asthma,Medication,Stable,2,Hypertension
+20,Female,Heart Disease,Surgery,Recovered,23,"Hypertension, Arthritis"
+89,Male,Heart Disease,Medication,Recovered,13,None
+34,Female,Heart Disease,Monitoring,Worsened,25,Depression
+56,Female,COPD,Lifestyle Change,Improved,30,Anxiety
+23,Female,Heart Disease,Lifestyle Change,Recovered,25,"Arthritis, Anxiety"
+31,Female,COPD,Monitoring,Recovered,4,Anxiety
+36,Female,Asthma,Lifestyle Change,Stable,19,"Anxiety, None"
+88,Female,COPD,Surgery,Stable,16,"None, Obesity"
+30,Male,Asthma,Therapy,Stable,4,"None, Anxiety"
+66,Male,Hypertension,Therapy,Stable,11,Arthritis
+37,Female,Asthma,Monitoring,Recovered,13,"Arthritis, Hyperlipidemia"
+43,Male,Hypertension,Medication,Improved,7,Anxiety
+88,Female,COPD,Medication,Worsened,4,None
+53,Male,COPD,Therapy,Recovered,23,Anxiety
+19,Male,Asthma,Medication,Stable,30,None
+38,Male,Heart Disease,Monitoring,Improved,6,"Hypertension, Chronic Kidney Disease"
+71,Female,Diabetes,Therapy,Improved,24,"Hyperlipidemia, Depression"
+40,Male,Asthma,Surgery,Improved,12,Depression
+77,Female,COPD,Lifestyle Change,Stable,1,None
+39,Female,Heart Disease,Therapy,Improved,12,Anxiety
+23,Female,Asthma,Lifestyle Change,Improved,9,"Depression, Hyperlipidemia"
+62,Female,COPD,Therapy,Recovered,21,"Hyperlipidemia, Obesity"
+45,Male,Hypertension,Monitoring,Improved,11,Obesity
+68,Male,COPD,Monitoring,Worsened,23,Obesity
+65,Male,COPD,Surgery,Improved,12,None
+31,Female,Diabetes,Lifestyle Change,Worsened,6,"Arthritis, Hypertension"
+58,Male,COPD,Lifestyle Change,Improved,30,Chronic Kidney Disease
+33,Female,Asthma,Medication,Improved,29,"Arthritis, Hypertension"
+68,Male,Heart Disease,Monitoring,Worsened,16,None
+79,Female,Diabetes,Therapy,Recovered,9,Arthritis
+33,Male,Diabetes,Medication,Worsened,3,"Hyperlipidemia, Chronic Kidney Disease"
+67,Male,Asthma,Lifestyle Change,Worsened,28,Depression
+33,Female,Heart Disease,Medication,Worsened,20,"None, Hyperlipidemia"
+87,Male,Asthma,Medication,Stable,26,"Arthritis, Anxiety"
+62,Male,Hypertension,Lifestyle Change,Recovered,24,"Depression, Chronic Kidney Disease"
+71,Female,COPD,Medication,Stable,22,Hypertension
+51,Male,COPD,Medication,Stable,20,"Arthritis, Anxiety"
+20,Male,Hypertension,Lifestyle Change,Stable,15,"Hypertension, Arthritis"
+22,Female,Asthma,Monitoring,Stable,21,Hypertension
+28,Female,Hypertension,Therapy,Recovered,22,None
+75,Male,Hypertension,Lifestyle Change,Worsened,30,"Depression, Chronic Kidney Disease"
+39,Male,Heart Disease,Monitoring,Worsened,4,Arthritis
+71,Female,COPD,Lifestyle Change,Improved,4,"Anxiety, Chronic Kidney Disease"
+38,Female,Asthma,Surgery,Improved,8,"None, Depression"
+68,Female,COPD,Therapy,Stable,10,Chronic Kidney Disease
+79,Male,COPD,Medication,Recovered,10,Arthritis
+58,Female,Diabetes,Monitoring,Recovered,10,Hypertension
+86,Female,COPD,Surgery,Improved,24,Obesity
+36,Female,Asthma,Medication,Improved,4,"Hyperlipidemia, Depression"
+61,Male,Heart Disease,Surgery,Recovered,15,Hyperlipidemia
+85,Male,Heart Disease,Surgery,Worsened,27,"None, Chronic Kidney Disease"
+86,Male,COPD,Lifestyle Change,Worsened,19,Hyperlipidemia
+57,Male,COPD,Therapy,Recovered,13,Obesity
+59,Female,COPD,Medication,Improved,4,Chronic Kidney Disease
+24,Male,COPD,Monitoring,Improved,10,"None, Arthritis"
+51,Male,Hypertension,Monitoring,Improved,11,"None, Depression"
+25,Male,Asthma,Surgery,Improved,28,Obesity
+84,Female,COPD,Monitoring,Stable,14,Obesity
+49,Female,Hypertension,Therapy,Stable,8,Depression
+34,Female,Asthma,Surgery,Improved,8,"Obesity, Depression"
+73,Male,Asthma,Surgery,Improved,30,"Anxiety, Hypertension"
+90,Male,Hypertension,Monitoring,Recovered,22,Depression
+64,Male,Diabetes,Lifestyle Change,Improved,2,Depression
+87,Male,COPD,Surgery,Improved,13,Depression
+34,Female,Diabetes,Surgery,Recovered,3,"Anxiety, Arthritis"
+18,Male,Asthma,Monitoring,Improved,3,Hypertension
+62,Male,Diabetes,Monitoring,Stable,25,Arthritis
+54,Female,Hypertension,Medication,Recovered,2,"Obesity, Hyperlipidemia"
+72,Male,Asthma,Surgery,Recovered,6,Hyperlipidemia
+61,Male,COPD,Surgery,Worsened,9,Depression
+50,Male,Hypertension,Lifestyle Change,Worsened,5,Hypertension
+83,Male,COPD,Therapy,Recovered,1,"Chronic Kidney Disease, Depression"
+83,Male,Hypertension,Lifestyle Change,Recovered,12,"Arthritis, Anxiety"
+78,Female,Hypertension,Lifestyle Change,Worsened,3,None
+85,Female,Asthma,Surgery,Stable,6,"Hypertension, Chronic Kidney Disease"
+19,Male,Hypertension,Therapy,Improved,22,"None, Anxiety"
+22,Female,Diabetes,Monitoring,Worsened,17,"Hypertension, Arthritis"
+47,Female,Diabetes,Medication,Improved,9,"Hyperlipidemia, Anxiety"
+69,Male,COPD,Medication,Recovered,30,"Anxiety, None"
+24,Male,Hypertension,Therapy,Worsened,2,Chronic Kidney Disease
+84,Male,Asthma,Surgery,Stable,18,Arthritis
+53,Male,Heart Disease,Surgery,Stable,17,None
+70,Female,Heart Disease,Lifestyle Change,Stable,4,"Obesity, Anxiety"
+24,Female,Asthma,Lifestyle Change,Worsened,25,None
+63,Female,Hypertension,Surgery,Worsened,28,"Hypertension, None"
+50,Female,COPD,Surgery,Worsened,9,"Anxiety, None"
+50,Male,Asthma,Therapy,Worsened,21,Arthritis
+68,Female,Asthma,Medication,Improved,5,"Arthritis, Anxiety"
+53,Female,Heart Disease,Therapy,Stable,17,"Hypertension, Anxiety"
+77,Female,Asthma,Therapy,Stable,26,"Hypertension, Obesity"
+22,Female,Diabetes,Medication,Improved,4,"Hyperlipidemia, Chronic Kidney Disease"
+63,Female,Hypertension,Medication,Recovered,8,"None, Hypertension"
+60,Female,COPD,Surgery,Improved,29,Arthritis
+41,Female,Hypertension,Medication,Recovered,4,"Obesity, Depression"
+53,Female,Asthma,Lifestyle Change,Stable,19,"Obesity, Arthritis"
+72,Female,Diabetes,Surgery,Improved,30,"Chronic Kidney Disease, Hyperlipidemia"
+46,Male,COPD,Surgery,Stable,18,"Depression, None"
+39,Female,Asthma,Surgery,Recovered,2,Hypertension
+77,Male,Hypertension,Surgery,Recovered,19,Arthritis
+27,Male,COPD,Surgery,Stable,18,"Chronic Kidney Disease, Hypertension"
+67,Female,Heart Disease,Therapy,Stable,30,"Chronic Kidney Disease, Obesity"
+20,Female,Diabetes,Medication,Worsened,21,"None, Hyperlipidemia"
+70,Female,Hypertension,Therapy,Recovered,30,None
+50,Male,Asthma,Surgery,Worsened,3,"None, Depression"
+63,Male,Heart Disease,Medication,Worsened,6,"None, Hyperlipidemia"
+40,Male,Hypertension,Therapy,Recovered,6,"None, Anxiety"
+37,Male,Asthma,Monitoring,Stable,13,Anxiety
+36,Female,COPD,Therapy,Worsened,13,"Depression, None"
+34,Female,Heart Disease,Lifestyle Change,Stable,22,"None, Hyperlipidemia"
+52,Female,Heart Disease,Lifestyle Change,Recovered,30,"Hyperlipidemia, None"
+46,Male,Diabetes,Lifestyle Change,Recovered,3,"None, Chronic Kidney Disease"
+46,Female,Heart Disease,Medication,Worsened,16,"Anxiety, None"
+66,Male,COPD,Medication,Stable,28,"Hyperlipidemia, Depression"
+24,Female,Diabetes,Medication,Worsened,22,"None, Hyperlipidemia"
+30,Male,Diabetes,Monitoring,Recovered,8,None
+83,Male,Diabetes,Therapy,Recovered,8,"Chronic Kidney Disease, Depression"
+68,Male,Asthma,Monitoring,Worsened,12,"Depression, Hypertension"
+77,Female,COPD,Monitoring,Improved,23,"Depression, Hyperlipidemia"
+32,Female,Heart Disease,Surgery,Worsened,18,Anxiety
+87,Female,Asthma,Lifestyle Change,Recovered,7,None
+63,Female,Asthma,Monitoring,Improved,8,Depression
+69,Female,Asthma,Surgery,Improved,19,"Arthritis, None"
+77,Female,Hypertension,Surgery,Stable,29,None
+59,Female,Diabetes,Lifestyle Change,Worsened,12,None
+26,Female,Diabetes,Monitoring,Worsened,20,None
+22,Female,Hypertension,Surgery,Worsened,18,"Anxiety, None"
+34,Female,Asthma,Lifestyle Change,Stable,10,"Hyperlipidemia, None"
+35,Female,Asthma,Medication,Stable,30,Obesity
+25,Female,Asthma,Monitoring,Improved,15,Hyperlipidemia
+33,Female,Hypertension,Medication,Recovered,22,Obesity
+68,Female,Diabetes,Therapy,Stable,10,Chronic Kidney Disease
+31,Female,Hypertension,Medication,Recovered,26,"Arthritis, None"
+51,Male,Diabetes,Surgery,Stable,19,"Obesity, Chronic Kidney Disease"
+86,Male,Heart Disease,Surgery,Recovered,1,"Chronic Kidney Disease, Hyperlipidemia"
+53,Male,Heart Disease,Surgery,Recovered,28,"Arthritis, Chronic Kidney Disease"
+47,Female,Heart Disease,Surgery,Recovered,10,"Anxiety, Chronic Kidney Disease"
+21,Male,Heart Disease,Monitoring,Recovered,29,"Arthritis, None"
+25,Female,Diabetes,Monitoring,Worsened,12,None
+76,Female,Heart Disease,Monitoring,Worsened,18,None
+69,Female,Heart Disease,Surgery,Recovered,10,"Hyperlipidemia, Chronic Kidney Disease"
+36,Male,Diabetes,Lifestyle Change,Recovered,27,Chronic Kidney Disease
+32,Female,Asthma,Therapy,Stable,1,Hypertension
+67,Female,Asthma,Surgery,Stable,23,"Hypertension, Arthritis"
+88,Female,Heart Disease,Surgery,Improved,17,Anxiety
+83,Female,Asthma,Medication,Stable,11,Hypertension
+69,Female,Diabetes,Medication,Recovered,5,Arthritis
+49,Female,Heart Disease,Lifestyle Change,Stable,25,"Hyperlipidemia, Arthritis"
+88,Male,COPD,Surgery,Recovered,21,Hyperlipidemia
+54,Female,Asthma,Monitoring,Worsened,4,Hypertension
+79,Female,Asthma,Therapy,Stable,20,Obesity
+72,Male,Asthma,Surgery,Stable,9,"None, Depression"
+22,Female,Diabetes,Monitoring,Worsened,25,Obesity
+39,Female,COPD,Medication,Stable,28,None
+69,Male,Asthma,Therapy,Stable,30,"None, Depression"
+64,Male,Asthma,Lifestyle Change,Worsened,28,Arthritis
+33,Male,Diabetes,Medication,Recovered,15,Arthritis
+23,Female,Asthma,Surgery,Improved,24,"Hypertension, None"
+31,Female,COPD,Surgery,Stable,1,"Hyperlipidemia, Chronic Kidney Disease"
+79,Female,Diabetes,Surgery,Stable,20,Arthritis
+57,Male,Asthma,Surgery,Worsened,9,"Hypertension, None"
+54,Female,Heart Disease,Lifestyle Change,Improved,8,"Depression, Arthritis"
+50,Male,COPD,Monitoring,Worsened,24,"Obesity, Hyperlipidemia"
+46,Female,Hypertension,Lifestyle Change,Worsened,14,Depression
+42,Female,COPD,Surgery,Stable,27,"Obesity, Depression"
+75,Male,Heart Disease,Monitoring,Recovered,18,Hyperlipidemia
+28,Female,Heart Disease,Therapy,Stable,25,Chronic Kidney Disease
+60,Female,Hypertension,Lifestyle Change,Improved,21,"Anxiety, None"
+18,Female,Heart Disease,Surgery,Worsened,24,Anxiety
+84,Male,Asthma,Monitoring,Recovered,1,None
+22,Male,Hypertension,Therapy,Recovered,12,Hypertension
+53,Male,COPD,Medication,Worsened,29,"None, Anxiety"
+77,Male,Hypertension,Therapy,Worsened,5,"Hyperlipidemia, Anxiety"
+42,Female,Asthma,Lifestyle Change,Improved,26,Chronic Kidney Disease
+52,Male,COPD,Monitoring,Improved,1,Hyperlipidemia
+26,Male,Heart Disease,Surgery,Improved,11,None
+40,Male,Diabetes,Medication,Improved,15,Anxiety
+80,Female,Diabetes,Surgery,Recovered,23,Arthritis
+84,Male,Diabetes,Surgery,Stable,29,None
+59,Female,Heart Disease,Monitoring,Stable,21,"Anxiety, Chronic Kidney Disease"
+53,Male,COPD,Therapy,Improved,19,Depression
+88,Female,Asthma,Surgery,Worsened,5,"Chronic Kidney Disease, None"
+29,Male,Asthma,Monitoring,Recovered,23,Hyperlipidemia
+24,Female,Asthma,Therapy,Stable,4,Hyperlipidemia
+20,Male,Hypertension,Medication,Recovered,27,"Chronic Kidney Disease, Hypertension"
+66,Male,Hypertension,Surgery,Recovered,20,Hyperlipidemia
+61,Female,Heart Disease,Medication,Worsened,8,Arthritis
+52,Male,Asthma,Therapy,Worsened,9,"None, Obesity"
+47,Male,Hypertension,Therapy,Improved,30,Hypertension
+61,Female,COPD,Medication,Worsened,14,Anxiety
+59,Male,Hypertension,Surgery,Worsened,6,"None, Depression"
+36,Female,Diabetes,Monitoring,Stable,1,"Arthritis, None"
+29,Male,Heart Disease,Monitoring,Improved,9,"Chronic Kidney Disease, Hyperlipidemia"
+37,Female,Heart Disease,Lifestyle Change,Improved,16,"Anxiety, Hyperlipidemia"
+28,Male,Asthma,Therapy,Recovered,16,None
+24,Female,Hypertension,Therapy,Recovered,22,Obesity
+72,Female,Diabetes,Monitoring,Worsened,12,"Anxiety, None"
+19,Female,Asthma,Monitoring,Recovered,5,Hyperlipidemia
+74,Male,Diabetes,Surgery,Stable,8,"None, None"
+35,Male,Hypertension,Medication,Recovered,29,Depression
+42,Female,Diabetes,Lifestyle Change,Improved,14,"None, Hyperlipidemia"
+65,Female,Heart Disease,Monitoring,Improved,27,Chronic Kidney Disease
+68,Male,COPD,Medication,Worsened,11,Chronic Kidney Disease
+50,Female,Asthma,Surgery,Improved,21,None
+24,Female,COPD,Surgery,Stable,15,Hypertension
+43,Male,Asthma,Surgery,Stable,18,Hypertension
+31,Female,COPD,Surgery,Worsened,28,"None, Arthritis"
+67,Male,Diabetes,Therapy,Improved,20,Hyperlipidemia
+73,Male,COPD,Medication,Stable,4,"Arthritis, Chronic Kidney Disease"
+83,Male,Hypertension,Therapy,Recovered,10,None
+73,Male,Hypertension,Lifestyle Change,Stable,19,Chronic Kidney Disease
+27,Female,Asthma,Lifestyle Change,Stable,22,"Obesity, Depression"
+71,Female,COPD,Monitoring,Recovered,3,Chronic Kidney Disease
+84,Male,COPD,Medication,Worsened,20,Hyperlipidemia
+59,Male,Asthma,Medication,Stable,22,"Hyperlipidemia, Hypertension"
+22,Female,Hypertension,Surgery,Stable,27,None
+23,Female,Diabetes,Medication,Recovered,12,"Chronic Kidney Disease, Anxiety"
+76,Female,Asthma,Lifestyle Change,Improved,24,Hyperlipidemia
+63,Female,Heart Disease,Monitoring,Improved,29,"None, Depression"
+27,Female,COPD,Lifestyle Change,Improved,29,Hypertension
+40,Female,Heart Disease,Lifestyle Change,Recovered,19,Obesity
+49,Female,Diabetes,Surgery,Worsened,14,"Anxiety, Hypertension"
+84,Male,Heart Disease,Therapy,Recovered,24,"Chronic Kidney Disease, None"
+83,Female,Heart Disease,Lifestyle Change,Stable,2,Depression
+70,Female,Diabetes,Lifestyle Change,Recovered,7,"Obesity, None"
+18,Male,COPD,Monitoring,Stable,11,Obesity
+61,Male,Heart Disease,Monitoring,Worsened,22,"None, Arthritis"
+32,Male,COPD,Lifestyle Change,Stable,17,"Anxiety, Obesity"
+89,Male,Hypertension,Lifestyle Change,Improved,28,Hyperlipidemia
+79,Female,Diabetes,Monitoring,Worsened,17,"Hyperlipidemia, Obesity"
+52,Male,COPD,Therapy,Stable,27,"Hypertension, Chronic Kidney Disease"
+18,Female,Asthma,Therapy,Worsened,29,"Depression, Anxiety"
+76,Male,Hypertension,Medication,Recovered,4,"Arthritis, Hyperlipidemia"
+18,Male,Asthma,Therapy,Recovered,27,Depression
+62,Female,Heart Disease,Medication,Improved,18,Arthritis
+80,Female,Hypertension,Therapy,Stable,11,"Chronic Kidney Disease, None"
+71,Male,Asthma,Monitoring,Stable,10,Chronic Kidney Disease
+77,Male,Diabetes,Monitoring,Recovered,13,Hypertension
+33,Female,Hypertension,Monitoring,Stable,14,Depression
+24,Male,Hypertension,Lifestyle Change,Improved,26,"Chronic Kidney Disease, Hyperlipidemia"
+19,Female,Asthma,Medication,Recovered,7,"None, Depression"
+81,Male,Hypertension,Surgery,Stable,7,Hypertension
+75,Female,Asthma,Monitoring,Recovered,8,"Chronic Kidney Disease, Obesity"
+27,Male,Hypertension,Therapy,Recovered,9,Depression
+53,Male,Hypertension,Surgery,Stable,14,Anxiety
+48,Male,COPD,Medication,Improved,25,Arthritis
+61,Male,COPD,Lifestyle Change,Recovered,8,Chronic Kidney Disease
+19,Male,Diabetes,Lifestyle Change,Improved,17,"Arthritis, Depression"
+66,Female,Asthma,Lifestyle Change,Stable,25,Hyperlipidemia
+28,Male,Diabetes,Medication,Worsened,23,None
+80,Male,Hypertension,Lifestyle Change,Recovered,25,None
+72,Female,Hypertension,Lifestyle Change,Improved,16,Chronic Kidney Disease
+50,Female,Asthma,Monitoring,Stable,26,Obesity
+45,Male,COPD,Therapy,Recovered,9,None
+30,Female,Diabetes,Therapy,Recovered,4,Arthritis
+34,Male,Diabetes,Lifestyle Change,Recovered,7,"Depression, Hyperlipidemia"
+23,Female,Diabetes,Surgery,Stable,18,"None, Arthritis"
+75,Female,COPD,Lifestyle Change,Worsened,8,Depression
+52,Male,Diabetes,Therapy,Worsened,21,Chronic Kidney Disease
+66,Female,Asthma,Medication,Improved,26,"Anxiety, Arthritis"
+53,Female,Diabetes,Medication,Worsened,3,Chronic Kidney Disease
+84,Male,Hypertension,Surgery,Worsened,29,Hypertension
+83,Male,Hypertension,Lifestyle Change,Worsened,17,"None, Anxiety"
+89,Male,Diabetes,Monitoring,Worsened,25,"Hypertension, Depression"
+64,Male,Hypertension,Therapy,Improved,19,Hyperlipidemia
+32,Female,Diabetes,Therapy,Stable,14,None
+31,Male,Asthma,Surgery,Worsened,24,Hypertension
+18,Female,Hypertension,Medication,Recovered,25,None
+38,Female,Hypertension,Lifestyle Change,Recovered,5,Depression
+31,Male,Asthma,Monitoring,Stable,5,Obesity
+24,Male,Diabetes,Monitoring,Stable,13,"Hypertension, None"
+79,Female,Hypertension,Medication,Improved,18,"Chronic Kidney Disease, Obesity"
+81,Female,Heart Disease,Medication,Recovered,24,Depression
+19,Male,Hypertension,Monitoring,Worsened,23,"Anxiety, None"
+40,Female,Diabetes,Therapy,Recovered,26,Obesity
+43,Female,COPD,Monitoring,Improved,21,"Arthritis, Hypertension"
+36,Male,Asthma,Medication,Stable,2,"Depression, None"
+69,Female,Asthma,Monitoring,Improved,6,"Hypertension, Obesity"
+69,Male,Diabetes,Lifestyle Change,Improved,26,"Arthritis, Obesity"
+70,Female,COPD,Lifestyle Change,Recovered,24,Depression
+84,Female,Diabetes,Surgery,Improved,28,Hypertension
+48,Male,Heart Disease,Medication,Recovered,30,"Anxiety, Hypertension"
+59,Female,Diabetes,Monitoring,Recovered,2,"Hypertension, Anxiety"
+61,Female,Heart Disease,Lifestyle Change,Recovered,20,None
+79,Female,Heart Disease,Monitoring,Stable,22,"Anxiety, Depression"
+46,Female,Hypertension,Monitoring,Stable,24,"Obesity, None"
+76,Female,Asthma,Monitoring,Stable,20,"Arthritis, Hyperlipidemia"
+39,Female,COPD,Lifestyle Change,Recovered,23,Hypertension
+48,Female,Asthma,Therapy,Worsened,23,"Hyperlipidemia, Hypertension"
+58,Male,Heart Disease,Therapy,Stable,8,"Hyperlipidemia, Chronic Kidney Disease"
+82,Male,Hypertension,Medication,Worsened,10,"Anxiety, Arthritis"
+19,Female,Diabetes,Lifestyle Change,Recovered,18,Anxiety
+68,Female,Diabetes,Surgery,Improved,10,Hyperlipidemia
+87,Female,Diabetes,Therapy,Improved,23,"Hypertension, Chronic Kidney Disease"
+36,Female,Hypertension,Monitoring,Improved,1,"Arthritis, Hypertension"
+58,Male,Heart Disease,Therapy,Improved,20,"Chronic Kidney Disease, Hypertension"
+30,Male,COPD,Therapy,Stable,25,Chronic Kidney Disease
+54,Male,Asthma,Monitoring,Worsened,5,Depression
+44,Male,COPD,Therapy,Improved,18,"Anxiety, Hyperlipidemia"
+41,Male,Heart Disease,Surgery,Worsened,21,"None, Obesity"
+83,Female,Hypertension,Lifestyle Change,Stable,22,"None, Arthritis"
+26,Male,Asthma,Lifestyle Change,Stable,17,"Hyperlipidemia, Anxiety"
+42,Male,Hypertension,Therapy,Stable,4,"Hyperlipidemia, Chronic Kidney Disease"
+31,Female,Hypertension,Medication,Recovered,11,"Arthritis, Hypertension"
+66,Male,Diabetes,Monitoring,Recovered,2,None
+39,Female,Heart Disease,Therapy,Recovered,21,Obesity
+48,Male,Diabetes,Medication,Stable,5,"Hyperlipidemia, None"
+34,Female,Heart Disease,Medication,Worsened,5,None
+29,Female,Asthma,Medication,Stable,17,None
+83,Female,Diabetes,Monitoring,Recovered,17,None
+89,Male,Hypertension,Therapy,Improved,16,Obesity
+83,Female,Heart Disease,Monitoring,Improved,11,None
+64,Male,COPD,Monitoring,Stable,14,None
+54,Female,Diabetes,Monitoring,Worsened,9,Depression
+18,Female,Diabetes,Therapy,Stable,28,Hyperlipidemia
+55,Female,Heart Disease,Monitoring,Stable,12,"Chronic Kidney Disease, None"
+35,Female,Hypertension,Medication,Recovered,21,None
+29,Female,Asthma,Lifestyle Change,Worsened,7,"Hypertension, Chronic Kidney Disease"
+70,Male,Heart Disease,Surgery,Stable,10,"Depression, Hyperlipidemia"
+41,Female,Asthma,Therapy,Worsened,29,Hyperlipidemia
+38,Male,Heart Disease,Monitoring,Stable,28,None
+58,Female,COPD,Medication,Stable,16,"None, Chronic Kidney Disease"
+52,Female,Diabetes,Monitoring,Worsened,4,"Depression, None"
+90,Male,Hypertension,Surgery,Worsened,20,Anxiety
+88,Female,COPD,Medication,Improved,13,None
+48,Male,Heart Disease,Monitoring,Improved,19,Arthritis
+61,Female,Hypertension,Surgery,Worsened,18,"Arthritis, None"
+66,Female,Asthma,Medication,Stable,11,"Arthritis, None"
+35,Female,Asthma,Surgery,Stable,3,Arthritis
+70,Female,COPD,Lifestyle Change,Stable,2,None
+85,Male,Diabetes,Medication,Stable,12,"Chronic Kidney Disease, None"
+35,Female,Hypertension,Surgery,Improved,4,Chronic Kidney Disease
+18,Female,COPD,Lifestyle Change,Stable,13,Anxiety
+44,Female,Asthma,Lifestyle Change,Improved,5,Arthritis
+89,Female,Asthma,Medication,Improved,27,Arthritis
+65,Female,Hypertension,Monitoring,Recovered,2,"Chronic Kidney Disease, Depression"
+78,Female,Asthma,Surgery,Stable,18,Anxiety
+65,Male,Diabetes,Therapy,Worsened,1,Chronic Kidney Disease
+24,Female,Diabetes,Monitoring,Worsened,8,"None, Chronic Kidney Disease"
+42,Male,Hypertension,Monitoring,Worsened,25,Hypertension
+43,Female,Hypertension,Lifestyle Change,Recovered,27,Depression
+32,Female,COPD,Lifestyle Change,Stable,5,"Hypertension, Arthritis"
+48,Female,Hypertension,Medication,Recovered,4,"Hypertension, None"
+78,Male,Asthma,Surgery,Recovered,6,Depression
+36,Male,Diabetes,Surgery,Stable,7,"Depression, Arthritis"
+21,Female,Asthma,Surgery,Improved,4,"Hypertension, None"
+20,Female,COPD,Monitoring,Improved,3,"Chronic Kidney Disease, Obesity"
+26,Male,Hypertension,Lifestyle Change,Recovered,26,Obesity
+36,Female,Hypertension,Therapy,Worsened,9,Chronic Kidney Disease
+28,Female,Heart Disease,Surgery,Worsened,29,Obesity
+71,Female,Hypertension,Medication,Improved,2,"Chronic Kidney Disease, Hypertension"
+38,Male,COPD,Medication,Worsened,29,"Hypertension, Anxiety"
+82,Male,Heart Disease,Therapy,Stable,5,"None, Arthritis"
+87,Female,COPD,Surgery,Improved,27,"Obesity, Hyperlipidemia"
+52,Male,Diabetes,Monitoring,Improved,1,"Depression, Hypertension"
+60,Female,Diabetes,Medication,Worsened,25,"Depression, Hypertension"
+88,Male,COPD,Lifestyle Change,Stable,14,"Arthritis, Obesity"
+57,Female,Hypertension,Therapy,Worsened,20,"Depression, Hyperlipidemia"
+62,Male,Hypertension,Lifestyle Change,Recovered,10,"Anxiety, Hypertension"
+71,Female,Asthma,Monitoring,Stable,22,Arthritis
+69,Female,COPD,Monitoring,Stable,6,None
+90,Male,Hypertension,Medication,Stable,2,Anxiety
+63,Male,Hypertension,Therapy,Improved,8,Hypertension
+52,Male,Hypertension,Lifestyle Change,Recovered,30,"Arthritis, Hypertension"
+27,Female,Diabetes,Surgery,Improved,9,"Hypertension, Chronic Kidney Disease"
+86,Female,Diabetes,Monitoring,Improved,23,Anxiety
+57,Female,Heart Disease,Therapy,Recovered,21,"Hypertension, None"
+23,Male,Asthma,Surgery,Improved,8,"Chronic Kidney Disease, Hypertension"
+26,Female,COPD,Surgery,Stable,4,"Hyperlipidemia, Anxiety"
+60,Female,COPD,Lifestyle Change,Stable,22,Chronic Kidney Disease
+80,Female,Hypertension,Surgery,Stable,28,Depression
+74,Female,COPD,Medication,Recovered,13,"None, Hypertension"
+21,Female,COPD,Monitoring,Worsened,4,None
+22,Male,Heart Disease,Lifestyle Change,Stable,7,"None, Hyperlipidemia"
+76,Male,Diabetes,Therapy,Stable,21,"Hypertension, Obesity"
+37,Male,COPD,Monitoring,Stable,8,None
+53,Female,Hypertension,Surgery,Recovered,20,"Arthritis, None"
+74,Male,Diabetes,Surgery,Stable,1,"Arthritis, Hyperlipidemia"
+43,Male,Asthma,Monitoring,Worsened,6,"Anxiety, Depression"
+47,Male,Asthma,Therapy,Recovered,28,"Chronic Kidney Disease, Arthritis"
+75,Female,Heart Disease,Surgery,Stable,12,Hyperlipidemia
+76,Male,COPD,Surgery,Recovered,10,None
+90,Male,Heart Disease,Lifestyle Change,Recovered,20,"None, Anxiety"
+86,Female,Diabetes,Lifestyle Change,Recovered,8,Anxiety
+58,Male,Heart Disease,Surgery,Stable,22,Hyperlipidemia
+55,Male,Diabetes,Lifestyle Change,Improved,6,Obesity
+78,Female,Heart Disease,Surgery,Recovered,29,"Arthritis, Hyperlipidemia"
+41,Male,Asthma,Lifestyle Change,Worsened,9,None
+61,Female,Heart Disease,Therapy,Recovered,12,Anxiety
+26,Male,Hypertension,Surgery,Improved,15,None
+56,Female,Heart Disease,Surgery,Worsened,1,Chronic Kidney Disease
+44,Female,Hypertension,Lifestyle Change,Recovered,9,"Obesity, Arthritis"
+42,Male,COPD,Surgery,Improved,20,"Hypertension, Hyperlipidemia"
+72,Male,Hypertension,Therapy,Stable,7,"Depression, Hyperlipidemia"
+81,Female,Diabetes,Surgery,Worsened,26,None
+46,Male,Diabetes,Surgery,Improved,11,None
+42,Male,Hypertension,Therapy,Improved,20,Chronic Kidney Disease
+59,Female,Heart Disease,Lifestyle Change,Improved,3,"Obesity, Chronic Kidney Disease"
+90,Male,Asthma,Medication,Worsened,28,"Chronic Kidney Disease, None"
+44,Male,Asthma,Lifestyle Change,Improved,24,Anxiety
+21,Male,Hypertension,Lifestyle Change,Recovered,1,"Hypertension, None"
+65,Male,Asthma,Therapy,Worsened,20,"Chronic Kidney Disease, Hypertension"
+79,Female,COPD,Lifestyle Change,Worsened,27,Arthritis
+69,Female,COPD,Surgery,Worsened,15,Hyperlipidemia
+35,Male,Hypertension,Therapy,Stable,1,"Chronic Kidney Disease, Hypertension"
+64,Female,Hypertension,Medication,Stable,20,"None, Depression"
+86,Female,Asthma,Monitoring,Worsened,7,"Chronic Kidney Disease, None"
+43,Male,Hypertension,Therapy,Stable,2,"Chronic Kidney Disease, Arthritis"
+63,Male,Heart Disease,Surgery,Stable,13,Hypertension
+19,Female,Hypertension,Monitoring,Recovered,28,Depression
+89,Male,Asthma,Lifestyle Change,Stable,26,"Hypertension, Depression"
+19,Male,Diabetes,Surgery,Worsened,19,"Arthritis, Hyperlipidemia"
+38,Female,Heart Disease,Lifestyle Change,Recovered,14,Depression
+88,Female,Asthma,Therapy,Recovered,10,Hypertension
+63,Female,COPD,Medication,Worsened,5,"Hyperlipidemia, Anxiety"
+76,Male,Hypertension,Lifestyle Change,Recovered,26,Hyperlipidemia
+62,Female,COPD,Surgery,Improved,30,"Hypertension, None"
+51,Male,Heart Disease,Surgery,Recovered,28,Hypertension
+82,Female,Diabetes,Medication,Stable,18,"Hyperlipidemia, Obesity"
+40,Female,Asthma,Medication,Improved,4,Hypertension
+81,Male,Asthma,Surgery,Improved,3,Hyperlipidemia
+46,Female,Heart Disease,Medication,Improved,21,"Obesity, Anxiety"
+68,Male,COPD,Monitoring,Stable,14,"Obesity, None"
+20,Male,Heart Disease,Medication,Improved,26,"None, Obesity"
+55,Female,Hypertension,Medication,Worsened,16,"Anxiety, Arthritis"
+55,Male,Heart Disease,Medication,Worsened,24,"Arthritis, Chronic Kidney Disease"
+23,Female,Hypertension,Surgery,Recovered,5,Arthritis
+75,Male,Asthma,Surgery,Stable,10,"Chronic Kidney Disease, Depression"
+79,Male,Hypertension,Monitoring,Recovered,5,"Hyperlipidemia, None"
+73,Male,Diabetes,Surgery,Stable,18,Arthritis
+55,Male,COPD,Therapy,Worsened,19,Chronic Kidney Disease
+23,Male,COPD,Therapy,Worsened,14,"None, Hyperlipidemia"
+48,Male,Heart Disease,Surgery,Stable,14,"Anxiety, Hyperlipidemia"
+69,Male,COPD,Therapy,Stable,24,Obesity
+66,Male,Heart Disease,Surgery,Stable,3,Hypertension
+48,Male,Hypertension,Lifestyle Change,Improved,4,Obesity
+28,Female,Hypertension,Surgery,Stable,10,"Hypertension, None"
+44,Female,COPD,Therapy,Recovered,27,Hypertension
+20,Male,Heart Disease,Lifestyle Change,Stable,24,"Chronic Kidney Disease, Anxiety"
+74,Female,Asthma,Monitoring,Worsened,27,"Hyperlipidemia, Hypertension"
+22,Female,Heart Disease,Lifestyle Change,Worsened,23,Obesity
+80,Male,Diabetes,Surgery,Improved,23,"Hyperlipidemia, Anxiety"
+41,Female,Heart Disease,Therapy,Worsened,13,"None, None"
+43,Male,COPD,Medication,Recovered,16,"Hypertension, Anxiety"
+68,Male,COPD,Medication,Stable,3,Hyperlipidemia
+53,Female,Heart Disease,Medication,Recovered,27,"Depression, Obesity"
+39,Male,Hypertension,Medication,Recovered,20,Hypertension
+45,Male,Hypertension,Lifestyle Change,Improved,7,"Hyperlipidemia, None"
+82,Female,Hypertension,Monitoring,Improved,15,"Hypertension, None"
+48,Male,Heart Disease,Lifestyle Change,Worsened,17,Hyperlipidemia
+61,Female,Heart Disease,Surgery,Worsened,30,"Obesity, Anxiety"
+47,Female,Hypertension,Lifestyle Change,Stable,29,"Hypertension, Hyperlipidemia"
+26,Male,Diabetes,Medication,Recovered,16,None
+85,Male,Hypertension,Lifestyle Change,Worsened,27,"None, Arthritis"
+20,Male,Heart Disease,Monitoring,Improved,9,"Hypertension, Obesity"
+55,Female,Heart Disease,Medication,Stable,1,Anxiety
+20,Male,COPD,Surgery,Improved,11,"Chronic Kidney Disease, Depression"
+26,Female,Heart Disease,Surgery,Worsened,12,"Anxiety, None"
+63,Female,Hypertension,Monitoring,Improved,14,"None, Chronic Kidney Disease"
+34,Male,Asthma,Lifestyle Change,Worsened,8,"Anxiety, Chronic Kidney Disease"
+57,Female,COPD,Surgery,Stable,7,Hyperlipidemia
+40,Male,Heart Disease,Medication,Recovered,14,Obesity
+35,Female,Diabetes,Monitoring,Improved,22,None
+88,Female,Heart Disease,Therapy,Improved,16,"Chronic Kidney Disease, Depression"
+85,Male,Asthma,Therapy,Recovered,10,"None, Hypertension"
+42,Female,Heart Disease,Surgery,Recovered,7,"Arthritis, None"
+43,Female,Asthma,Therapy,Stable,22,Arthritis
+47,Female,COPD,Medication,Worsened,12,Arthritis
+27,Male,COPD,Therapy,Improved,19,"Hyperlipidemia, Chronic Kidney Disease"
+32,Female,Heart Disease,Medication,Recovered,8,"None, Hypertension"
+46,Female,Heart Disease,Therapy,Stable,29,Chronic Kidney Disease
+20,Male,Hypertension,Medication,Improved,2,None
+86,Female,COPD,Lifestyle Change,Improved,10,Chronic Kidney Disease
+78,Male,Hypertension,Surgery,Recovered,3,Arthritis
+40,Male,Asthma,Surgery,Improved,19,"None, None"
+55,Female,Hypertension,Therapy,Improved,29,"Anxiety, None"
+89,Male,COPD,Surgery,Improved,15,"Depression, Chronic Kidney Disease"
+42,Male,COPD,Therapy,Recovered,6,Depression
+18,Female,COPD,Medication,Improved,28,Anxiety
+63,Male,Heart Disease,Lifestyle Change,Worsened,23,"Obesity, Arthritis"
+68,Female,Asthma,Monitoring,Recovered,5,None
+18,Female,Heart Disease,Lifestyle Change,Worsened,30,"Hyperlipidemia, None"
+84,Male,Hypertension,Surgery,Recovered,19,Anxiety
+20,Female,Heart Disease,Medication,Stable,29,"None, Obesity"
+77,Male,Asthma,Therapy,Improved,15,"None, Hypertension"
+37,Female,Asthma,Medication,Improved,30,Arthritis
+73,Male,COPD,Surgery,Stable,19,Anxiety
+76,Female,COPD,Lifestyle Change,Stable,2,"Obesity, Hypertension"
+74,Male,Hypertension,Therapy,Recovered,13,Anxiety
+18,Female,Asthma,Therapy,Improved,1,"Chronic Kidney Disease, Anxiety"
+59,Female,Asthma,Medication,Worsened,10,"None, None"
+61,Male,COPD,Lifestyle Change,Stable,17,Obesity
+46,Female,COPD,Surgery,Worsened,3,None
+65,Female,Diabetes,Therapy,Worsened,9,Anxiety
+77,Female,Diabetes,Lifestyle Change,Stable,20,Hypertension
+21,Female,Diabetes,Lifestyle Change,Recovered,30,Hyperlipidemia
+75,Male,Diabetes,Medication,Recovered,11,"Chronic Kidney Disease, Anxiety"
+42,Male,Asthma,Lifestyle Change,Improved,17,"Obesity, Arthritis"
+38,Female,Hypertension,Therapy,Recovered,27,None
+90,Female,COPD,Medication,Recovered,28,None
+75,Male,COPD,Medication,Worsened,25,"None, Depression"
+81,Female,COPD,Surgery,Worsened,25,Depression
+53,Female,COPD,Monitoring,Worsened,2,"Depression, Chronic Kidney Disease"
+58,Male,Hypertension,Medication,Stable,1,Arthritis
+42,Male,Diabetes,Therapy,Recovered,6,"Chronic Kidney Disease, None"
+60,Male,Heart Disease,Monitoring,Worsened,25,Chronic Kidney Disease
+24,Female,Hypertension,Lifestyle Change,Stable,3,Hyperlipidemia
+87,Male,Diabetes,Surgery,Stable,16,"Obesity, Chronic Kidney Disease"
+33,Female,Hypertension,Medication,Worsened,4,Obesity
+52,Female,Diabetes,Monitoring,Improved,29,"Chronic Kidney Disease, None"
+20,Female,Heart Disease,Surgery,Worsened,15,"Obesity, Arthritis"
+51,Male,Hypertension,Surgery,Stable,6,Obesity
+41,Male,COPD,Lifestyle Change,Recovered,12,"Obesity, Hyperlipidemia"
+57,Male,Heart Disease,Surgery,Worsened,20,Obesity
+44,Female,Heart Disease,Therapy,Improved,25,"None, None"
+42,Female,Heart Disease,Surgery,Worsened,7,Anxiety
+74,Female,Asthma,Lifestyle Change,Worsened,21,"Chronic Kidney Disease, None"
+41,Female,Diabetes,Medication,Worsened,7,Arthritis
+54,Female,Hypertension,Medication,Worsened,29,Arthritis
+50,Female,COPD,Medication,Recovered,20,"Chronic Kidney Disease, Anxiety"
+51,Male,COPD,Therapy,Recovered,7,Obesity
+59,Female,Hypertension,Therapy,Stable,3,Chronic Kidney Disease
+67,Female,Asthma,Surgery,Recovered,29,"Hypertension, Chronic Kidney Disease"
+38,Female,Asthma,Monitoring,Stable,29,"Chronic Kidney Disease, Hyperlipidemia"
+67,Male,Hypertension,Medication,Stable,7,Anxiety
+24,Male,Diabetes,Surgery,Improved,6,"Chronic Kidney Disease, Arthritis"
+54,Male,Hypertension,Medication,Recovered,28,"Hyperlipidemia, Anxiety"
+21,Male,Hypertension,Therapy,Recovered,6,"Chronic Kidney Disease, None"
+70,Male,Heart Disease,Lifestyle Change,Worsened,14,"Chronic Kidney Disease, Arthritis"
+39,Male,Heart Disease,Therapy,Stable,10,"Chronic Kidney Disease, Hyperlipidemia"
+64,Female,Hypertension,Surgery,Stable,5,"Depression, Obesity"
+87,Male,COPD,Medication,Stable,23,"Arthritis, Anxiety"
+79,Male,Heart Disease,Surgery,Worsened,14,"Hypertension, Hyperlipidemia"
+53,Female,Diabetes,Surgery,Worsened,22,"Anxiety, None"
+30,Male,Diabetes,Therapy,Stable,28,Chronic Kidney Disease
+27,Male,COPD,Medication,Improved,18,Hypertension
+62,Male,COPD,Therapy,Improved,4,Depression
+32,Male,Diabetes,Lifestyle Change,Stable,14,"Depression, Obesity"
+63,Male,COPD,Therapy,Worsened,20,None
+51,Female,Asthma,Medication,Recovered,27,"Hyperlipidemia, Depression"
+35,Female,Diabetes,Therapy,Recovered,9,"Obesity, Hypertension"
+27,Male,Hypertension,Medication,Stable,26,"Depression, Arthritis"
+67,Female,Hypertension,Surgery,Stable,22,"Hypertension, None"
+44,Male,Heart Disease,Monitoring,Recovered,14,Hyperlipidemia
+39,Female,COPD,Medication,Recovered,6,Anxiety
+19,Male,Asthma,Therapy,Stable,23,Hypertension
+69,Female,Hypertension,Therapy,Recovered,17,Depression
+50,Female,Asthma,Surgery,Recovered,26,Chronic Kidney Disease
+56,Male,Hypertension,Surgery,Improved,15,"Hypertension, Anxiety"
+69,Female,Asthma,Medication,Recovered,24,"None, Anxiety"
+82,Male,Heart Disease,Monitoring,Worsened,6,Chronic Kidney Disease
+61,Female,Heart Disease,Surgery,Worsened,2,"None, None"
+26,Male,Hypertension,Surgery,Worsened,6,"Arthritis, Chronic Kidney Disease"
+64,Female,COPD,Medication,Recovered,7,Anxiety
+51,Female,Hypertension,Monitoring,Improved,13,None
+49,Female,COPD,Lifestyle Change,Recovered,27,Anxiety
+43,Male,Diabetes,Medication,Worsened,11,Arthritis
+65,Female,Heart Disease,Surgery,Recovered,28,Chronic Kidney Disease
+74,Male,Diabetes,Medication,Worsened,23,"Chronic Kidney Disease, Hypertension"
+66,Female,COPD,Monitoring,Improved,15,Anxiety
+24,Male,Hypertension,Monitoring,Improved,9,Chronic Kidney Disease
+39,Female,Diabetes,Therapy,Improved,8,Obesity
+27,Female,Heart Disease,Monitoring,Worsened,14,Hypertension
+83,Male,COPD,Lifestyle Change,Stable,6,Obesity
+80,Female,Hypertension,Lifestyle Change,Stable,16,Chronic Kidney Disease
+81,Male,Hypertension,Therapy,Recovered,28,"Hypertension, Hyperlipidemia"
+65,Female,Diabetes,Therapy,Worsened,11,None
+43,Female,Heart Disease,Medication,Recovered,4,"None, None"
+26,Male,COPD,Surgery,Recovered,11,"Obesity, None"
+65,Female,COPD,Surgery,Recovered,19,Anxiety
+18,Male,Hypertension,Surgery,Recovered,26,Hyperlipidemia
+81,Female,Diabetes,Surgery,Worsened,28,"Hyperlipidemia, Obesity"
+45,Male,COPD,Monitoring,Stable,26,"Chronic Kidney Disease, Arthritis"
+54,Female,Asthma,Monitoring,Stable,4,None
+63,Male,Diabetes,Medication,Improved,30,"Hyperlipidemia, Hypertension"
+76,Male,Asthma,Surgery,Stable,15,Hypertension
+86,Female,COPD,Surgery,Recovered,19,None
+36,Male,Diabetes,Monitoring,Worsened,6,Hyperlipidemia
+69,Male,Diabetes,Surgery,Stable,27,"Arthritis, None"
+60,Male,Hypertension,Therapy,Recovered,5,None
+19,Female,Asthma,Surgery,Recovered,18,Hypertension
+77,Female,Diabetes,Lifestyle Change,Improved,6,"Hyperlipidemia, Depression"
+75,Female,Diabetes,Therapy,Improved,25,Anxiety
+34,Male,Asthma,Monitoring,Stable,4,Hypertension
+43,Female,Diabetes,Therapy,Improved,6,"Hyperlipidemia, None"
+26,Female,Hypertension,Therapy,Recovered,9,"Arthritis, Depression"
+55,Female,COPD,Medication,Worsened,5,Hypertension
+38,Female,Hypertension,Surgery,Worsened,27,Chronic Kidney Disease
+59,Female,COPD,Surgery,Worsened,18,Hypertension
+77,Female,COPD,Surgery,Recovered,24,Anxiety
+82,Female,Diabetes,Therapy,Recovered,25,Arthritis
+60,Male,Hypertension,Medication,Recovered,2,Depression
+18,Male,Asthma,Lifestyle Change,Improved,19,"Depression, Arthritis"
+44,Female,COPD,Medication,Recovered,2,None
+58,Male,Asthma,Medication,Worsened,15,"Depression, None"
+46,Male,Diabetes,Medication,Recovered,18,None
+69,Female,Diabetes,Medication,Recovered,8,"None, Obesity"
+38,Male,Asthma,Monitoring,Worsened,22,"Chronic Kidney Disease, Anxiety"
+33,Male,Heart Disease,Surgery,Stable,12,"Hyperlipidemia, None"
+57,Female,Hypertension,Monitoring,Worsened,15,"Anxiety, None"
+72,Female,Asthma,Medication,Worsened,17,Chronic Kidney Disease
+79,Male,Heart Disease,Surgery,Improved,21,Chronic Kidney Disease
+85,Female,COPD,Monitoring,Worsened,2,Anxiety
+19,Female,COPD,Monitoring,Stable,18,"None, Anxiety"
+19,Female,Heart Disease,Therapy,Worsened,30,None
+63,Female,Heart Disease,Monitoring,Stable,13,Arthritis
+64,Female,COPD,Monitoring,Stable,23,"Obesity, Arthritis"
+52,Female,Diabetes,Surgery,Worsened,15,None
+84,Male,Asthma,Monitoring,Recovered,23,"None, Chronic Kidney Disease"
+51,Female,Heart Disease,Therapy,Improved,1,Arthritis
+33,Male,Heart Disease,Medication,Worsened,3,Depression
+40,Male,Heart Disease,Lifestyle Change,Recovered,20,None
+53,Male,Asthma,Surgery,Recovered,24,"Hypertension, Chronic Kidney Disease"
+21,Male,COPD,Lifestyle Change,Improved,29,Anxiety
+62,Male,Asthma,Medication,Stable,26,Hypertension
+81,Female,Heart Disease,Monitoring,Worsened,15,"Hyperlipidemia, None"
+44,Male,Hypertension,Medication,Worsened,19,"None, Arthritis"
+35,Male,Asthma,Monitoring,Recovered,12,"Hypertension, Hyperlipidemia"
+50,Female,Heart Disease,Lifestyle Change,Improved,21,"Arthritis, Anxiety"
+32,Female,COPD,Medication,Worsened,10,"Hyperlipidemia, Depression"
+72,Male,Heart Disease,Monitoring,Worsened,15,Hyperlipidemia
+38,Male,Asthma,Medication,Recovered,1,Chronic Kidney Disease
+83,Female,Heart Disease,Therapy,Recovered,13,Hyperlipidemia
+61,Male,Diabetes,Medication,Improved,23,"Obesity, Hyperlipidemia"
+18,Female,Asthma,Lifestyle Change,Stable,10,"Anxiety, Chronic Kidney Disease"
+41,Female,Diabetes,Therapy,Recovered,19,"Chronic Kidney Disease, Hypertension"
+80,Male,Heart Disease,Therapy,Improved,5,"Hypertension, Hyperlipidemia"
+89,Male,Heart Disease,Medication,Worsened,8,"Chronic Kidney Disease, Hyperlipidemia"
+90,Female,Hypertension,Therapy,Improved,4,Depression
+36,Female,COPD,Surgery,Stable,17,Hypertension
+83,Female,COPD,Surgery,Worsened,13,Arthritis
+19,Male,Diabetes,Lifestyle Change,Recovered,6,"Hypertension, None"
+56,Female,Hypertension,Lifestyle Change,Worsened,21,None
+28,Male,Heart Disease,Monitoring,Worsened,14,None
+89,Male,Heart Disease,Therapy,Recovered,17,Obesity
+58,Female,COPD,Therapy,Stable,14,None
+40,Female,Heart Disease,Lifestyle Change,Worsened,19,Obesity
+46,Male,COPD,Surgery,Stable,20,Obesity
+80,Male,COPD,Monitoring,Improved,18,None
+68,Female,Hypertension,Lifestyle Change,Worsened,8,Hyperlipidemia
+81,Male,COPD,Medication,Stable,27,"None, Anxiety"
+22,Male,Diabetes,Surgery,Improved,18,"Obesity, Arthritis"
+60,Male,Hypertension,Surgery,Stable,15,"Arthritis, Chronic Kidney Disease"
+28,Female,Diabetes,Monitoring,Improved,30,"None, None"
+65,Male,Asthma,Lifestyle Change,Worsened,4,Anxiety
+67,Male,Heart Disease,Surgery,Improved,11,"Arthritis, Obesity"
+72,Male,Asthma,Surgery,Improved,21,None
+70,Female,COPD,Surgery,Recovered,11,Chronic Kidney Disease
+44,Female,Heart Disease,Medication,Recovered,2,Obesity
+39,Male,Heart Disease,Therapy,Recovered,24,"Hyperlipidemia, Arthritis"
+38,Female,Hypertension,Lifestyle Change,Worsened,21,Hyperlipidemia
+22,Male,COPD,Surgery,Stable,17,Chronic Kidney Disease
+25,Female,Asthma,Therapy,Worsened,11,None
+59,Male,COPD,Surgery,Worsened,19,None
+24,Male,Diabetes,Therapy,Stable,29,"Hyperlipidemia, Obesity"
+56,Male,Diabetes,Surgery,Improved,27,"Anxiety, Depression"
+56,Female,Heart Disease,Monitoring,Recovered,24,"Obesity, Hypertension"
+50,Male,Heart Disease,Monitoring,Stable,21,"Chronic Kidney Disease, Depression"
+64,Male,COPD,Medication,Recovered,17,None
+33,Female,Asthma,Lifestyle Change,Worsened,3,"Arthritis, None"
+41,Female,COPD,Therapy,Recovered,7,Hypertension
+61,Male,COPD,Monitoring,Recovered,10,"Obesity, Anxiety"
+74,Male,Diabetes,Medication,Improved,3,None
+74,Male,Heart Disease,Surgery,Improved,21,Chronic Kidney Disease
+71,Male,Heart Disease,Surgery,Recovered,13,"Arthritis, Hyperlipidemia"
+77,Female,Asthma,Surgery,Worsened,10,Depression
+19,Male,Diabetes,Lifestyle Change,Worsened,26,Chronic Kidney Disease
+63,Male,Hypertension,Surgery,Worsened,29,None
+81,Male,Diabetes,Therapy,Worsened,22,None
+68,Male,Heart Disease,Lifestyle Change,Stable,5,"Anxiety, Depression"
+85,Female,Diabetes,Monitoring,Recovered,27,"Obesity, None"
+83,Male,Heart Disease,Lifestyle Change,Improved,5,"Hyperlipidemia, Anxiety"
+65,Female,Heart Disease,Therapy,Recovered,10,Hyperlipidemia
+43,Male,Hypertension,Surgery,Stable,11,"None, Obesity"
+67,Female,Hypertension,Monitoring,Recovered,13,"Depression, Anxiety"
+83,Male,Asthma,Therapy,Recovered,9,"Hypertension, None"
+68,Female,Diabetes,Therapy,Recovered,2,"Depression, Hypertension"
+25,Female,Diabetes,Medication,Improved,6,"None, Anxiety"
+39,Male,Heart Disease,Surgery,Recovered,8,"Chronic Kidney Disease, Obesity"
+49,Female,Hypertension,Medication,Worsened,1,"Hyperlipidemia, Chronic Kidney Disease"
+27,Male,Asthma,Therapy,Stable,27,Chronic Kidney Disease
+18,Female,Diabetes,Lifestyle Change,Stable,2,"None, Obesity"
+79,Male,Asthma,Surgery,Improved,27,None
+88,Female,COPD,Medication,Improved,4,"None, Arthritis"
+49,Female,Asthma,Therapy,Stable,26,"Hyperlipidemia, Obesity"
+33,Male,Hypertension,Therapy,Recovered,19,Arthritis
+63,Male,Asthma,Lifestyle Change,Stable,25,Arthritis
+28,Male,COPD,Surgery,Stable,19,Hypertension
+48,Female,Hypertension,Surgery,Improved,21,"Chronic Kidney Disease, Depression"
+67,Female,Heart Disease,Surgery,Stable,29,"Hypertension, Obesity"
+37,Male,Heart Disease,Monitoring,Improved,9,Anxiety
+47,Female,COPD,Surgery,Worsened,19,"None, None"
+47,Male,Asthma,Medication,Stable,26,None
+40,Male,Diabetes,Monitoring,Improved,25,Obesity
+19,Female,COPD,Therapy,Recovered,8,"Hyperlipidemia, Hypertension"
+55,Female,Hypertension,Surgery,Worsened,11,Hypertension
+33,Male,Heart Disease,Monitoring,Worsened,28,"None, Chronic Kidney Disease"
+31,Female,Diabetes,Therapy,Recovered,29,"Anxiety, Arthritis"
+39,Female,Asthma,Therapy,Improved,25,Obesity
+81,Female,Asthma,Lifestyle Change,Recovered,19,Chronic Kidney Disease
+80,Female,Heart Disease,Lifestyle Change,Stable,4,"Arthritis, None"
+71,Female,Heart Disease,Therapy,Stable,13,Anxiety
+81,Male,Hypertension,Therapy,Worsened,20,"Hyperlipidemia, Obesity"
+47,Female,Hypertension,Lifestyle Change,Recovered,14,Depression
+73,Male,Asthma,Surgery,Improved,23,"None, Chronic Kidney Disease"
+24,Female,COPD,Monitoring,Improved,1,"Anxiety, Chronic Kidney Disease"
+83,Female,Heart Disease,Lifestyle Change,Worsened,11,"None, Hypertension"
+38,Male,Heart Disease,Medication,Worsened,4,"Obesity, Anxiety"
+80,Female,Asthma,Lifestyle Change,Stable,7,"Depression, Hyperlipidemia"
+48,Male,COPD,Medication,Improved,28,"Obesity, None"
+85,Female,Heart Disease,Therapy,Recovered,4,"Arthritis, Anxiety"
+45,Female,Asthma,Lifestyle Change,Stable,26,"Anxiety, Arthritis"
+28,Male,COPD,Lifestyle Change,Recovered,7,"Depression, Chronic Kidney Disease"
+57,Male,Hypertension,Therapy,Recovered,20,Chronic Kidney Disease
+64,Female,Asthma,Surgery,Stable,3,"Hyperlipidemia, Chronic Kidney Disease"
+74,Female,Asthma,Medication,Improved,19,Anxiety
+65,Male,Heart Disease,Therapy,Recovered,19,Chronic Kidney Disease
+43,Male,COPD,Medication,Recovered,7,Hyperlipidemia
+37,Male,Hypertension,Medication,Recovered,21,"None, Hypertension"
+23,Female,Asthma,Surgery,Improved,12,Anxiety
+65,Female,Asthma,Monitoring,Improved,23,Depression
+22,Female,Asthma,Monitoring,Worsened,1,Chronic Kidney Disease
+63,Male,Diabetes,Therapy,Recovered,5,"Arthritis, Anxiety"
+25,Female,Asthma,Surgery,Worsened,14,"Anxiety, Hypertension"
+28,Female,Hypertension,Monitoring,Recovered,10,"Anxiety, Arthritis"
+23,Female,Asthma,Lifestyle Change,Stable,3,"Hyperlipidemia, Arthritis"
+84,Male,COPD,Therapy,Stable,2,Depression
+81,Female,Diabetes,Surgery,Worsened,13,"Arthritis, Chronic Kidney Disease"
+24,Male,Hypertension,Medication,Recovered,16,Obesity
+34,Male,Hypertension,Lifestyle Change,Stable,23,Hypertension
+20,Male,COPD,Monitoring,Worsened,2,"None, Obesity"
+38,Male,Hypertension,Surgery,Stable,24,"Hypertension, Anxiety"
+89,Female,Asthma,Lifestyle Change,Stable,13,Obesity
+21,Male,Heart Disease,Therapy,Worsened,6,Hyperlipidemia
+26,Male,Asthma,Monitoring,Stable,7,"Anxiety, Obesity"
+77,Female,Heart Disease,Medication,Stable,2,"Anxiety, None"
+19,Male,COPD,Surgery,Stable,11,"Obesity, Hypertension"
+90,Male,Asthma,Monitoring,Recovered,7,"Anxiety, Chronic Kidney Disease"
+46,Female,COPD,Therapy,Stable,30,Hypertension
+51,Male,Diabetes,Therapy,Stable,7,Chronic Kidney Disease
+80,Female,Heart Disease,Therapy,Worsened,7,Hypertension
+46,Female,COPD,Surgery,Recovered,7,"Anxiety, Depression"
+29,Female,COPD,Monitoring,Recovered,12,"Arthritis, Hyperlipidemia"
+60,Male,Diabetes,Surgery,Improved,19,Chronic Kidney Disease
+62,Male,Asthma,Medication,Recovered,22,Chronic Kidney Disease
