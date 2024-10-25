@@ -1,0 +1,6 @@
+Doctor: Hi there! How can I help you today?
+Patient: I think I might have allergies; I’ve been sneezing a lot.
+Doctor: Have you been exposed to any allergens recently?
+Patient: Yes, I was cleaning out my attic, and there was a lot of dust.
+Doctor: Let’s discuss some allergy treatments.
+

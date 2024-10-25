@@ -1,0 +1,5 @@
+Doctor: Good morning! How are you feeling today?
+Patient: I’ve been feeling really anxious lately.
+Doctor: Can you tell me what’s been causing your anxiety?
+Patient: I think it’s work-related stress. I have a lot on my plate.
+Doctor: That’s understandable. Let’s talk about some coping strategies.

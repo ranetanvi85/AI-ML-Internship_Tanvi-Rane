@@ -1,0 +1,5 @@
+Doctor: Hello! What brings you in today?
+Patient: I’ve had this persistent cough for the last week.
+Doctor: Have you noticed any other symptoms?
+Patient: Yes, I’ve also had a bit of a sore throat.
+Doctor: Let’s take a look and see what’s going on.

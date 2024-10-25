@@ -1,0 +1,5 @@
+Doctor: Good afternoon! What seems to be the problem?
+Patient: I’m experiencing a lot of fatigue and headaches.
+Doctor: How long have you been feeling this way?
+Patient: It’s been about two weeks now.
+Doctor: Let’s run some tests to see what might be causing it.
